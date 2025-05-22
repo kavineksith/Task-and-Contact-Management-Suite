@@ -75,7 +75,7 @@ The application includes comprehensive error handling with:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Disclaimer
 
