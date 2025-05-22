@@ -87,8 +87,6 @@ These tools manage important personal data. Always:
 - Verify data integrity
 - Test new features in safe environments
 
-This software is provided "as is" without warranty. The developers are not responsible for any data loss. **Use at your own risk.**
-
 **Note for all tools:**
 - Designed for educational and personal use
 - Not guaranteed to be bug-free
