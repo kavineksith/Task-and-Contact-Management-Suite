@@ -2,8 +2,6 @@
 
 A robust, extensible, and industrial-grade CLI-based contact manager built in Python. Designed to handle complex contact operations like adding, updating, searching, importing, and exporting contacts with full logging and error handling.
 
----
-
 ## 📌 Features
 
 * Add, delete, update, and search contacts.
@@ -12,8 +10,6 @@ A robust, extensible, and industrial-grade CLI-based contact manager built in Py
 * Both **interactive** and **CLI argument-based** modes.
 * Detailed logging with file rotation support.
 * Customizable configuration for logging, database path, and more.
-
----
 
 ## 🚀 Getting Started
 
@@ -95,7 +91,7 @@ Optional flags:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Disclaimer
 
